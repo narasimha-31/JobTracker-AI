@@ -10,11 +10,13 @@ For every job:
 - Manually store everything
 - Search for the job description again when prepping for interviews
 
-**Measured reality:**
-- ~3–5 minutes per job
-- ~50 jobs → ~2.5 hours of data entry
-- No consistent data for analysis
-- Hard to reference later for interview prep
+## Time Reduction (Measured Impact)
+
+| Scenario | Manual | Automated | Reduction |
+|--------|--------|-----------|-----------|
+| Time per job | 3–5 min | 6–10 sec | **~94%** |
+| 50 jobs | ~2.5 hrs | ~8 min | **~2h 22m saved** |
+| Effort | High | Near zero | **Eliminated** |
 
 This work adds **zero value** to your job search focus.
 
