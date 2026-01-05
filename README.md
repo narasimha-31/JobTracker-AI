@@ -119,7 +119,7 @@ Free tier limitations:
 - **250,000 tokens per minute**
 
 These limits make the free tier suitable for light users (≤20 jobs/day).  
-If you apply to **more than ~20 jobs/day**, free tier isn’t sufficient — you may hit the RPM/RPD limits even if token quota remains.
+If you apply to **more than ~20 jobs/day**, free tier isn’t sufficient, you may hit the RPM/RPD limits even if token quota remains.
 
 **Paid tier benefits:**
 - Much higher requests per day
@@ -127,7 +127,7 @@ If you apply to **more than ~20 jobs/day**, free tier isn’t sufficient — you
 - More throughput for high-velocity applicants
 
 👉 **Why this matters:**  
-If you’re applying >20 jobs/day, the free tier will throttle you — the tracker still works, but you’ll wait for rate limits or need paid API capacity.
+If you’re applying >20 jobs/day, the free tier will throttle you, the tracker still works, but you’ll wait for rate limits or need paid API capacity.
 
 ---
 
@@ -190,7 +190,7 @@ If you’re applying >20 jobs/day, the free tier will throttle you — the track
   - Which roles → interviews
   - Skill sets with highest responses
 
-Goal: save even more time — from **data entry** → **decision support**.
+Goal: save even more time, from **data entry** → **decision support**.
 
 ---
 
