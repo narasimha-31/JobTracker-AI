@@ -10,13 +10,13 @@ For every job:
 - Manually store everything
 - Search for the job description again when prepping for interviews
 
-## Time Reduction (Measured Impact)
+## Time 
 
-| Scenario | Manual | Automated | Reduction |
-|--------|--------|-----------|-----------|
-| Time per job | 3–5 min | 6–10 sec | **~94%** |
-| 50 jobs | ~2.5 hrs | ~8 min | **~2h 22m saved** |
-| Effort | High | Near zero | **Eliminated** |
+| Scenario | Manual | Automated |
+|--------|--------|-----------|
+| Time per job | 3–5 min | 
+| 50 jobs | ~2.5 hrs | 
+| Effort | High |
 
 This work adds **zero value** to your job search focus.
 
