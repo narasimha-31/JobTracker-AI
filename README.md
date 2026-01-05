@@ -1,4 +1,4 @@
-# AI Job Application Tracker
+# JobTracker AI
 
 ## The Problem
 
