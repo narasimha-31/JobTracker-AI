@@ -12,8 +12,8 @@ For every job:
 
 ## Time 
 
-| Scenario | Manual | Automated |
-|--------|--------|-----------|
+| Scenario | Manual |
+|--------|--------|
 | Time per job | 3–5 min | 
 | 50 jobs | ~2.5 hrs | 
 | Effort | High |
